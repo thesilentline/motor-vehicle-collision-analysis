@@ -5,4 +5,4 @@ download the dataset: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-
 
 to run the file 
 terminal:
-``` streamlit run app.py```
+```streamlit run app.py```
